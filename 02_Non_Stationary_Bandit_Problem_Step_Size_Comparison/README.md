@@ -16,7 +16,7 @@ The goal of this project is to demonstrate how these two methods perform in a no
 ---
 
 ## Visualizations
-The project includes a visualization of the average reward over time for both approaches. Here's a preview of the output:
+The project includes a visualization of the average reward over time for both approaches. Here's a preview of the output:  
 ![image](https://drive.google.com/uc?export=view&id=1-0wMkmE_DEEeCqaGU0MbpSD6ld7hyTBp)
 
 - **Non-Constant Step Size**: Adaptive step size that decreases over time.
