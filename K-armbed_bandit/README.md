@@ -52,14 +52,12 @@ The simulation compares the **average reward over time** for three epsilon value
 
 The plot below demonstrates the running average rewards over time for each epsilon value:
 
-![Performance Comparison](https://via.placeholder.com/800x400?text=Epsilon-Greedy+Simulation) *(Replace with your plot image)*
+![Performance Comparison](https://drive.google.com/uc?export=view&id=1ijtDSqi7-DfkdFc5fdoHzFHcRO9oL_e-)
 
 ---
 
-## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/k-armed-bandit.git
-   cd k-armed-bandit
+
+
+
 
